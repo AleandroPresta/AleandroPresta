@@ -16,7 +16,7 @@ I'm currently working as Assistant Reserchar at:
 <p align="left">
 <a href="https://linkedin.com/in/aleandro-presta-6523471b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleandro-presta-6523471b9" height="30" width="40" /></a>
 <a href="https://github.com/AleandroPresta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AleandroPresta" height="30" width="40" /></a>
-<a href="aleandro.presta@outlook.com" target="blank"><img align="center" src="/images/email.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto: aleandro.presta@outlook.com" target="blank"><img align="center" src="/images/email.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 
