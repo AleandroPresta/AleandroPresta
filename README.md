@@ -1,12 +1,7 @@
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
-
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
 
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXUyOTc5bWhkdDN6aXpjYTVwdnhxand2MWYxY2YxeWhpY2E0eHA3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width=400/>
-<br>
-</p>
 I'm currently working as Assistant Reserchar at:
 
 <p align="left">
