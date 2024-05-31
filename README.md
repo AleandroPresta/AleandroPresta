@@ -4,19 +4,22 @@
 
 I'm currently working as Assistant Reserchar at:
 
+<img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
 <p align="left">
-<a href="https://dimes.unical.it/" target="blank">
+<a align="left"href="https://dimes.unical.it/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/UniversitaDellaCalabria/unicms-template-unical@1.6.12/src/unicms_template_unical/static/images/logos/dimes.svg" alt="DIMES"/></a>
 </p>
 
 🌱 I’m currently learning **Django, Bootstrap**
 
-📫 How to reach me **aleandro.presta@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleandro-presta-6523471b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleandro-presta-6523471b9" height="30" width="40" /></a>
+<a href="https://github.com/AleandroPresta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AleandroPresta" height="30" width="40" /></a>
+<a href="aleandro.presta@outlook.com" target="blank"><img align="center" src="/images/email.svg" alt="Email" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
