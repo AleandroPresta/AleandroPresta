@@ -1,7 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
-<h3 align="center">A Developer with a Master's Degree in Software Engineering: Artificial Intelligence and Machine Learning</h3>
-
+<h3 align="center">Machine Learning Engineer and Web Developer</h3>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXUyOTc5bWhkdDN6aXpjYTVwdnhxand2MWYxY2YxeWhpY2E0eHA3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width=400>
 -   I'm currently working as Assistant Reserchar at:
 <p align="left">
 <a href="https://dimes.unical.it/" target="blank">
