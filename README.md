@@ -1,10 +1,8 @@
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
-
-I'm currently working as Assistant Reserchar at:
-
 <img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
+I'm currently working as Assistant Reserchar at:
 <p align="left">
 <a align="left"href="https://dimes.unical.it/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/UniversitaDellaCalabria/unicms-template-unical@1.6.12/src/unicms_template_unical/static/images/logos/dimes.svg" alt="DIMES"/></a>
