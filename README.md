@@ -6,6 +6,7 @@
 <a href="https://dimes.unical.it/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/UniversitaDellaCalabria/unicms-template-unical@1.6.12/src/unicms_template_unical/static/images/logos/dimes.svg" alt="DIMES"/></a>
 </p>
+
 -   🌱 I’m currently learning **Django, Bootstrap**
 
 -   📫 How to reach me **aleandro.presta@outlook.com**
