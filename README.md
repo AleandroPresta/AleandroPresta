@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
 <img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
 <br>
-<p><br>I'm currently working as Assistant Reserchar at:</p>
+<p><br>I'm currently working as Assistant Researcher at:</p>
 <p align="left">
 <a align="left"href="https://dimes.unical.it/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/UniversitaDellaCalabria/unicms-template-unical@1.6.12/src/unicms_template_unical/static/images/logos/dimes.svg" alt="DIMES"/></a>
