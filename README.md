@@ -1,6 +1,7 @@
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
 <img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
