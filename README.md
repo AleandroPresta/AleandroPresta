@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
+<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true">
+<img align="right" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 <br>
 <p><br>I'm currently working as Assistant Researcher at:</p>
 <p align="left">
