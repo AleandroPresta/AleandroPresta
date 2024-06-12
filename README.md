@@ -10,16 +10,6 @@
 
 🌱 I’m currently learning **Django, Bootstrap**
 
-<br>
-
-![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<br>
-![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=vue-dark&hide_border=true)
-<br>
-![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleandro-presta-6523471b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleandro-presta-6523471b9" height="30" width="40" /></a>
@@ -63,3 +53,14 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 </p>
+
+<p>Some of my GitHub stats:</p>
+<br>
+
+![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br>
+![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=vue-dark&hide_border=true)
+<br>
+![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<br>
