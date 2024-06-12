@@ -1,9 +1,10 @@
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AleandroPresta&theme=dark)](https://git.io/streak-stats)
-![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true)
 ![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
 <img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
