@@ -3,8 +3,6 @@
 
 ![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true)
-![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
 <img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
@@ -25,7 +23,7 @@
 <a href="https://www.frontendmentor.io/profile/AleandroPresta" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/frontendmentor-logo.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
-
+![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
