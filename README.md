@@ -1,10 +1,7 @@
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 
-$$
 ![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=dark&show_icons=true&hide_border=true&count_private=true)
-<br>
-$$
 ![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true)
 
 
