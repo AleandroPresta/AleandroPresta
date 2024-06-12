@@ -58,10 +58,6 @@
 <p>Some of my GitHub stats:</p>
 <br>
 
-![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<br>
-![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=vue-dark&hide_border=true)
-<br>
-![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<br>
+![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=tokyonight&hide_border=true)
+![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
