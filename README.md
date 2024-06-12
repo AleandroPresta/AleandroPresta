@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
-<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-<img align="right" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 <br>
 <p><br>I'm currently working as Assistant Researcher at:</p>
 <p align="left">
 <a align="left"href="https://dimes.unical.it/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/UniversitaDellaCalabria/unicms-template-unical@1.6.12/src/unicms_template_unical/static/images/logos/dimes.svg" alt="DIMES"/></a>
 </p>
 
-<img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true">
-
 🌱 I’m currently learning **Django, Bootstrap**
+
+<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+<img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true">
+<img align="right" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
