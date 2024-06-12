@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">Some of my GitHub stats:</h3>
+
 ![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=dark&hide_border=true)
 ![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
