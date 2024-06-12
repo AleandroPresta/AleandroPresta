@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
+<img align="right" width=400 src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
 <br>
 <p><br>I'm currently working as Assistant Researcher at:</p>
 <p align="left">
