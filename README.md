@@ -54,10 +54,7 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 </p>
-
 <p>Some of my GitHub stats:</p>
-<br>
-
 ![AleandroPresta's Stats](https://github-readme-stats.vercel.app/api?username=AleandroPresta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![AleandroPresta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleandroPresta&theme=tokyonight&hide_border=true)
 ![AleandroPresta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleandroPresta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
