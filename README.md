@@ -7,8 +7,6 @@
 <p align="left">
 <a align="left"href="https://dimes.unical.it/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/UniversitaDellaCalabria/unicms-template-unical@1.6.12/src/unicms_template_unical/static/images/logos/dimes.svg" alt="DIMES"/></a>
 </p>
-
-🌱 I’m currently learning **Angular** and **Java Spring**.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
