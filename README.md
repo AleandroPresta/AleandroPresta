@@ -1,4 +1,4 @@
-![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![Banner]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg))
 <h1 align="center">Hi 👋, I'm Aleandro Presta</h1>
 
 <h3 align="center">Machine Learning Engineer and Web Developer</h3>
